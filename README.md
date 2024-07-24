@@ -4,7 +4,7 @@ This repository provides tools and examples for performing inference with Video-
 
 ## Introduction
 
-Video-LLaVa is a sophisticated model designed to understand and generate language based on video and image inputs. This repository demonstrates how to use Video-LLaVa for various tasks, including action recognition, caption generation, and more.
+Video-LLaVA is a sophisticated model designed to understand and generate language based on video and image inputs. This repository demonstrates how to use Video-LLaVA for various tasks, including action recognition, caption generation, and more.
 
 ## Features
 
