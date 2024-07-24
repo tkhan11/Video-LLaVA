@@ -1,6 +1,6 @@
-# Inference_with_Video-LLaVa
+# Inference_with_Video-LLaVA
 
-This repository provides tools and examples for performing inference with Video-LLaVa (Language and Vision Assistant) models and fine-tuning these models for specific video-based tasks.
+This repository provides tools and examples for performing inference with Video-LLaVA (Language and Vision Assistant) models and fine-tuning these models for specific video-based tasks.
 
 ## Introduction
 
