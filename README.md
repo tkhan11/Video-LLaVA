@@ -18,4 +18,3 @@ To install the necessary dependencies, run:
 
 ```bash
 git clone https://github.com/tkhan11/Video-LLaVA.git
-cd Inference_with_Video-LLaVa
